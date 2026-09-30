@@ -1,0 +1,4 @@
+"CFBundleName" = "Mic Subtitles";
+"CFBundleDisplayName" = "Mic Subtitles";
+"NSMicrophoneUsageDescription" = "Mic Subtitles listens through the microphone to show live subtitles. Audio stays on this Mac and is never saved or uploaded.";
+"NSAudioCaptureUsageDescription" = "Mic Subtitles captures the audio this Mac is playing (videos, classes, meetings) to show live subtitles. Audio stays on this Mac and is never saved or uploaded.";

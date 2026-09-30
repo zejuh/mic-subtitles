@@ -1,0 +1,4 @@
+"CFBundleName" = "麦克风字幕";
+"CFBundleDisplayName" = "麦克风字幕";
+"NSMicrophoneUsageDescription" = "用麦克风听现场讲话并显示字幕。声音只在这台 Mac 上处理，不保存、不上传。";
+"NSAudioCaptureUsageDescription" = "抓电脑正在播放的声音（视频、网课、会议）来显示字幕。声音只在这台 Mac 上处理，不保存、不上传。";
